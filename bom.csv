@@ -4,8 +4,7 @@ Item,Component,Specification,Qty,Reference/Notes,Buy Link,Source
 3,MAX17043,"Li-ion/LiPo fuel gauge, I2C",1,I2C: D4/D5,https://www.shopee.com.my/search?keyword=MAX17043%20module,Shopee Malaysia search
 4,Rotary Encoder,"Incremental encoder, A/B outputs",1,"A=D6, B=D7",https://www.shopee.com.my/search?keyword=KY-040%20rotary%20encoder,Shopee Malaysia search
 5,Tactile Push Button,Momentary normally-open button,4,"SW1=D1, SW2=D8, SW3=D9, SW4=D10",https://www.shopee.com.my/search?keyword=6x6%20tactile%20push%20button,Shopee Malaysia search
-6,LED,Status LED,1,"LED1=D2, power indicator",https://www.shopee.com.my/search?keyword=5mm%20LED%20assorted,Shopee Malaysia search
-7,LED,Status LED,1,"LED2=D3, low-battery indicator",https://www.shopee.com.my/search?keyword=5mm%20LED%20assorted,Shopee Malaysia search
+6,LED,Status LED,2,"LED1=D2 LED2=D3, indicator",https://www.shopee.com.my/search?keyword=5mm%20LED%20assorted,Shopee Malaysia search
 8,microSD Card,"microSD, Class 10 recommended",1,External game/photo storage,https://www.shopee.com.my/search?keyword=microSD%20Class%2010,Shopee Malaysia search
 9,Li-ion/LiPo Battery,"Single-cell rechargeable battery, suitable for XIAO power input",1,Check connector and battery dimensions,https://www.shopee.com.my/search?keyword=3.7V%201000mAh%20LiPo%20battery,Shopee Malaysia search
 10,USB-C Cable,USB-C data + power cable,1,Programming/power,https://www.shopee.com.my/search?keyword=USB-C%20data%20cable,Shopee Malaysia search
