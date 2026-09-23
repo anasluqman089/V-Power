@@ -29,7 +29,7 @@ What is V-Power? you might ask. Well, it is a custom mini handheld console built
 | Item | Component | Price ($) | Qty | Buy Link |
 | :---: | :--- | :---: | :---: | :--- |
 | 1 | XIAO ESP32-S3 Sense | $13.90 | 1 | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) |
-| 2 | 0.96 Inch OLED Display | $6.99 | 1 | [Shopee](https://www.shopee.com.my/search?keyword=0.96%20OLED%20SSD1306%20128x64%20I2C) |
+| 2 | 0.96 Inch OLED Display | $6.99 | 1 | [Amazon](https://www.amazon.com/Dorhea-Display-3-3V-5V-Arduino-Raspberry/dp/B07FK8GB8T/ref=sr_1_5) |
 | 3 | MAX17043 | $9.49 | 1 | [Amazon](https://www.amazon.com/HiLetgo-MAX17043-Lithium-Battery-Converter/dp/B01NBE99EP/ref=sr_1_3) |
 | 4 | Rotary Encoder | $6.99 | 1 | [Amazon](https://www.amazon.com/AIMPGSTL-Rotary-Encoder-Arduino-Raspberry/dp/B0FHDG9BKF/ref=sr_1_6) |
 | 5 | Tactile Push Button | $4.99 | 4 | [Amazon](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/ref=sr_1_8) |
