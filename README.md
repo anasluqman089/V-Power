@@ -26,6 +26,16 @@ What is V-Power? you might ask. Well, it is a custom mini handheld console built
 ## BOM
 
 
+| Item | Component | Price ($) | Qty | Buy Link |
+| :---: | :--- | :---: | :---: | :--- |
+| 1 | XIAO ESP32-S3 Sense | $13.90 | 1 | [Seeed Studio](https://www.seeedstudio.com/XIAO-ESP32S3-Sense-p-5639.html) |
+| 2 | 0.96 Inch OLED Display | $6.99 | 1 | [Shopee](https://www.shopee.com.my/search?keyword=0.96%20OLED%20SSD1306%20128x64%20I2C) |
+| 3 | MAX17043 | $9.49 | 1 | [Amazon](https://www.amazon.com/HiLetgo-MAX17043-Lithium-Battery-Converter/dp/B01NBE99EP/ref=sr_1_3) |
+| 4 | Rotary Encoder | $6.99 | 1 | [Amazon](https://www.amazon.com/AIMPGSTL-Rotary-Encoder-Arduino-Raspberry/dp/B0FHDG9BKF/ref=sr_1_6) |
+| 5 | Tactile Push Button | $4.99 | 4 | [Amazon](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/ref=sr_1_8) |
+| 6 | LED | $6.99 | 2 | [Amazon](https://www.amazon.com/CHANZON-Assortment-Colors-Clear-Transparent/dp/B01AUI4VSI/ref=sr_1_6) |
+| 7 | 40x30x8mm Li-ion/LiPo Battery | $2.20 | 1 | [Shopee](https://shopee.com.my/Original-Rechargeable-Battery-3.7V-150mAh-300mAh-600mAh-800mAh-1000mAh-1200mAh-1500mAh-3000mAh-5000mAh-bateri-china-cina-i.237274675.3651954444) |
+| 8 | 3d printing | ~$5.00 | 1 | - |
 
 ## Controls
 
