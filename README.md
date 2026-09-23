@@ -23,6 +23,10 @@ What is V-Power? you might ask. Well, it is a custom mini handheld console built
 * Photo gallery
 * Long-press game exit
 
+## BOM
+
+
+
 ## Controls
 
 There 4 mode with its own control
@@ -224,13 +228,35 @@ The internal flash is primarily used for:
 
 The current pin assignment uses:
 
-
   D8  → SW2
   D9  → SW3
   D10 → SW4
 
-
 On the XIAO ESP32-S3 Sense, these pins are also associated with the board's SD-card interface.
+
+## How to build it!
+
+***Step 1 : Wiring***
+
+Choose whether to use a PCB or dupont wire but I really recommend using PCB
+
+***Step 2 : Buy the parts***
+
+Buy the part that is listed in the BOM
+
+***Step 3 : Solder***
+
+Solder the parts to the PCB make sure you follow the traces correctly
+
+***Step 4 : Casing***
+
+3D print the CAD or make your own case, its up to you!
+
+***Step 5 : Upload the firmware***
+
+Upload the firmware make sure you use VSCode with PlatformIO extensions. Use this guide to get started https://docs.platformio.org/en/latest/integration/ide/vscode.html
+
+*Finished*
 
 ## Schematic
 
