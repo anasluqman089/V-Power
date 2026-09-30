@@ -131,15 +131,25 @@ Additional games can be loaded from the SD card using the project's game format.
 The SD card uses the following structure:
 
   SD CARD
+  
   │
+  
   ├── games/
+  
   │   ├── game1.GAM
+  
   │   ├── game2.GAM
+  
   │   └── game3.GAM
+  
   │
+  
   └── photos/
+  
       ├── PHOTO001.JPG
+      
       ├── PHOTO002.JPG
+      
       └── PHOTO003.JPG
 
 When the console starts, it scans the `games` folder and adds detected `.GAM` files to the game menu.
@@ -157,10 +167,15 @@ Example:
 GAME MENU
 
   > SNAKE
+> 
     DODGE
+> 
     PONG
+> 
     game1.GAM
+> 
     game2.GAM
+> 
 
 
 The rotary encoder is used to move through the list.
@@ -174,14 +189,15 @@ The XIAO ESP32-S3 Sense camera is used to capture photographs.
 When a picture is taken:
 
   Camera
-     ↓
+    
   Capture JPEG
-     ↓
+
   Create filename
-     ↓
+     
   Save to SD
-     ↓
+     
   /photos/PHOTOxxx.JPG
+  
 
 The camera mode can be accessed from the main menu using the **LEFT** button.
 
