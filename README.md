@@ -35,7 +35,8 @@ What is V-Power? you might ask. Well, it is a custom mini handheld console built
 | 5 | Tactile Push Button | $4.99 | 4 | [Amazon](https://www.amazon.com/DAOKI-Miniature-Momentary-Tactile-Quality/dp/B01CGMP9GY/ref=sr_1_8) |
 | 6 | LED | $6.99 | 2 | [Amazon](https://www.amazon.com/CHANZON-Assortment-Colors-Clear-Transparent/dp/B01AUI4VSI/ref=sr_1_6) |
 | 7 | 40x30x8mm Li-ion/LiPo Battery | $2.20 | 1 | [Shopee](https://shopee.com.my/Original-Rechargeable-Battery-3.7V-150mAh-300mAh-600mAh-800mAh-1000mAh-1200mAh-1500mAh-3000mAh-5000mAh-bateri-china-cina-i.237274675.3651954444) |
-| 8 | 3d printing | ~$5.00 | 1 | - |
+| 8 | 3d printing | $5.00 | 1 | - |
+| 8 | PCB | $4.00 | 1 | - |
 
 ## Controls
 
@@ -102,17 +103,13 @@ The game exit time can be changed from **5 seconds to 10 seconds** in the source
 
 LED 1 is turned on when the handheld is powered on.
 
-Power ON
-   ↓
-LED 1 ON
+Power ON = LED 1 ON
 
 ### LED 2
 
 LED 2 indicates a low battery condition.
 
-Battery ≤ 15%
-      ↓
-LED 2 blinks
+Battery ≤ 15% = LED 2 blinks
 
 
 ## Games
