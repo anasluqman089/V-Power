@@ -24,6 +24,7 @@ void inputBegin() {
 
 void inputUpdate() {
     for (uint8_t i = 0; i < 4; ++i) {
+        pressEvent[i] = false;
         bool current = digitalRead(pins[i]);
         if (state[i] == HIGH && current == LOW) {
             pressEvent[i] = true;
